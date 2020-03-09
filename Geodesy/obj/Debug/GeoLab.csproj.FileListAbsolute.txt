@@ -1,0 +1,10 @@
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\bin\Debug\Geodesy.exe.config
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\bin\Debug\Geodesy.exe
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\bin\Debug\Geodesy.pdb
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\GeoLab.csprojAssemblyReference.cache
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\GeoLab.Converter.resources
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\GeoLab.Coordinates.resources
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\GeoLab.Properties.Resources.resources
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\GeoLab.csproj.GenerateResource.cache
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\Geodesy.exe
+D:\dokumenti\Web programiranje kursevi i ostalo\C#\projekti\GeoLab\GeoLab solution\Geodesy\obj\Debug\Geodesy.pdb
